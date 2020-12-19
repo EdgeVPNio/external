@@ -1,0 +1,16 @@
+35c6b10278f499a6a98977f8d059e313  usr/lib/arm-linux-gnueabihf/libnss3.so
+7cef02b574766f6820c1281e8984a0b0  usr/lib/arm-linux-gnueabihf/libnssutil3.so
+93f822b7b3bb023085014fa3ec423411  usr/lib/arm-linux-gnueabihf/libsmime3.so
+d7b84e41838a0392c620f114fc369082  usr/lib/arm-linux-gnueabihf/libssl3.so
+efb3b584ffc4e5a487c6fc4ea7b88628  usr/lib/arm-linux-gnueabihf/nss/libfreebl3.chk
+0be6e28730dc1524ba3439bc1649de76  usr/lib/arm-linux-gnueabihf/nss/libfreebl3.so
+3efa78285b01f65784078faba66d5609  usr/lib/arm-linux-gnueabihf/nss/libfreeblpriv3.chk
+1910ac2320abefb49afaf613a5f53b09  usr/lib/arm-linux-gnueabihf/nss/libfreeblpriv3.so
+91958ca4987812d05446cfd0e2d82683  usr/lib/arm-linux-gnueabihf/nss/libnssckbi.so
+6688180751c90f6996a8fa0b52488252  usr/lib/arm-linux-gnueabihf/nss/libnssdbm3.chk
+a45a0fc51038d7e794228006b5f6a3c6  usr/lib/arm-linux-gnueabihf/nss/libnssdbm3.so
+6eb14528cf53d7eb1afeec74770f40d8  usr/lib/arm-linux-gnueabihf/nss/libsoftokn3.chk
+467c5790ddccbc73ab69e48d146d2193  usr/lib/arm-linux-gnueabihf/nss/libsoftokn3.so
+8914bd5dab9927aa225ecd3a4df5930f  usr/share/doc/libnss3/changelog.Debian.gz
+2c0c7f235481281b777abb7b44826e95  usr/share/doc/libnss3/copyright
+a1df4a8de84c1c0d4f4a1d87c8aa006b  usr/share/lintian/overrides/libnss3
